@@ -50,7 +50,7 @@
 
 
 # 运行
-运行时，会一直占用此终端窗口，可以按 Ctrl + C 取消运行。
+运行时，会一直占用此终端窗口，可以按键盘 q 或者 Ctrl + C 取消运行。
     C:\Users\wucha\ChatGPT-bot>npm run dev
     
 ![image](https://user-images.githubusercontent.com/33740652/224197733-c2586a74-708c-445e-a91c-27004f8194e9.png)
