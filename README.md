@@ -57,8 +57,7 @@
 
 # 访问
 在浏览器输入 http://localhost:5173
-![image](https://user-images.githubusercontent.com/33740652/224202980-5e4329e6-f1eb-4124-8cbe-388876fea698.png)
-
+![image](https://user-images.githubusercontent.com/33740652/224208266-4b01a4d1-d202-4217-a870-5358bd68883a.png)
 
 # 可能出现的情况
 
