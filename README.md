@@ -53,7 +53,7 @@
 双击运行 run.bat 文件启动服务。
 运行时，会一直占用此终端窗口。
 如果想退出，可以按键盘 q 或者直接关闭窗口。
-![image](https://user-images.githubusercontent.com/33740652/224207705-4ed912b6-a5be-476c-8bd3-e35b6685a18e.png)
+![image](https://user-images.githubusercontent.com/33740652/224216145-ba28679a-9003-4471-ae6e-cf428135dc92.png)
 
 # 访问
 在浏览器输入 http://localhost:5173
