@@ -54,8 +54,14 @@
     
 ![image](https://user-images.githubusercontent.com/33740652/224197733-c2586a74-708c-445e-a91c-27004f8194e9.png)
 
+# 访问
+在浏览器输入 http://localhost:5173
+![image](https://user-images.githubusercontent.com/33740652/224202980-5e4329e6-f1eb-4124-8cbe-388876fea698.png)
+
+
 # 可能出现的情况
 
 安装react
     
     npm install react react-dom
+如果出现报错，同样可以忽略。
