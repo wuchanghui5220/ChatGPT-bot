@@ -42,6 +42,10 @@
 
 # 替换 openai api_key
 进入到 src 目录，使用文本编辑软件，比如  记事本，打开config.js ,替换api_key，保存文件。
+![image](https://user-images.githubusercontent.com/33740652/224201314-3bb47e42-9dd9-4078-8fe1-3abbea058b10.png)
+替换api_key
+![image](https://user-images.githubusercontent.com/33740652/224201494-ad04a146-535c-4b2b-acc8-7ba756d44acb.png)
+
 
 # 运行
     C:\Users\wucha\ChatGPT-bot>npm run dev
