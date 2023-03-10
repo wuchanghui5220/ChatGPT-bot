@@ -1,5 +1,5 @@
 const config = {
-  API_KEY: "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"
+  API_KEY: "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"
 };
 
 export default config;
