@@ -50,6 +50,7 @@
 
 
 # 运行
+双击运行 run.bat 文件启动服务。
 运行时，会一直占用此终端窗口，可以按键盘 q 或者 Ctrl + C 取消运行。
     C:\Users\wucha\ChatGPT-bot>npm run dev
     
