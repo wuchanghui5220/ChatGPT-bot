@@ -15,6 +15,7 @@
     9.6.0
     
 # 安装ChatGPT-bot
+如果git命令，请到 Git官网 https://git-scm.com/downloads 下载适合您系统的安装程序。
     git clone https://github.com/wuchanghui5220/ChatGPT-bot.git
     cd ChatGPT-bot
     npm install
